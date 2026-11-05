@@ -3560,11 +3560,6 @@ fieldset:disabled .btn {
   background-color: #1B71A1;
   border-color: #1B71A1;
 }
-.btn-secondary-ifood {
-  color: #FFFEFE;
-  background-color: #1B71A1;
-  border-color: #1B71A1;
-}
 
 .btn-secondary:hover {
   color: #FFFEFE;
@@ -3572,10 +3567,16 @@ fieldset:disabled .btn {
   border-color: #165a81;
 }
 
-.btn-secondary-ifood:hover {
+.btn-secondary-ifood {
   color: #FFFEFE;
   background-color: #EA1D2C;
   border-color: #165a81;
+}
+
+.btn-secondary-ifood:hover {
+  color: #FFFEFE;
+  background-color: #1B71A1;
+  border-color: #1B71A1;
 }
 
 .btn-check:focus + .btn-secondary, .btn-secondary:focus {
